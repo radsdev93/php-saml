@@ -1,6 +1,6 @@
 {
-    "name": "onelogin/php-saml",
-    "description": "OneLogin PHP SAML Toolkit",
+    "name": "radsdev93/php-saml",
+    "description": "OneLogin PHP SAML Toolkit Forked To Enable POST on SLO",
     "license": "MIT",
     "homepage": "https://developers.onelogin.com/saml/php",
     "keywords": ["saml", "saml2", "onelogin"],
@@ -12,9 +12,9 @@
         ]
     },
     "support": {
-        "email": "sixto.garcia@onelogin.com",
-        "issues": "https://github.com/onelogin/php-saml/issues",
-        "source": "https://github.com/onelogin/php-saml/"
+        "email": "rasantos@protonmail.com",
+        "issues": "https://github.com/radsdev93/php-saml/issues",
+        "source": "https://github.com/radsdev93/php-saml/"
     },
     "require": {
         "php": ">=5.3.2 <7.2",
